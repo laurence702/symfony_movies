@@ -1,0 +1,1 @@
+<p align="center"><a href="https://symfony.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPHP%2Fcomments%2F186ow1x%2Fsymfony_700_released%2F&psig=AOvVaw2RNXWLp_f-V9qeF7zxZQWu&ust=1715055638550000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDktaKW-IUDFQAAAAAdAAAAABAE" width="400" alt="Symfony Logo"></a></p>
